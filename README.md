@@ -1,7 +1,9 @@
 Cabot
 =====
 Here is the updates compared to arachnys/cabot:
+
 (1)Determine Graphite Check Range by Frequency
+
 
 [![Build Status](https://img.shields.io/travis/arachnys/cabot/master.svg)](https://travis-ci.org/arachnys/cabot) [![docs](http://img.shields.io/badge/docs-latest-brightgreen.svg)](http://cabotapp.com/qs/quickstart.html)
 
