@@ -1,6 +1,6 @@
 Cabot
 =====
-Here is the updates compared to arachnys/cabot:
+Here are the updates compared to arachnys/cabot:
 
 (1)Determine Graphite Check Range by Frequency
 
